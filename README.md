@@ -1,9 +1,9 @@
 # Forkify
 Recipes Web App
 
-### Link
+## Deployed Version
 
-https://forkify-eli.netlify.app/
+Live demo (Feel free to visit) 👉 : https://forkify-eli.netlify.app/
 
 ### Home
 
