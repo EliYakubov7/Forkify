@@ -1,6 +1,6 @@
 # Forkify
 
-Recipe Searching App - JavaScript
+Recipe Searching Web App - JavaScript
 
 ## Deployed Version
 
